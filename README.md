@@ -1,16 +1,15 @@
-### Hi there 👋
+### bem vindo ao meu perfil 
 
-<!--
-**nicolesantos6036/Nicolesantos6036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é taeme nicole
 
-Here are some ideas to get you started:
+-estou estudando na plataforma Alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo nas linguagens Java script, HTML e CSS
+
+-utilizo este espaço para minha organização e compartilhamento dos meus projetos.
+
+### voce pode entrar em conato comigo 📫
+
+taeme.cruz@escola.pr.gov.br
+
+![](https://media.tenor.com/j2aXFpn49KQAAAAd/cat-wow.gif)
