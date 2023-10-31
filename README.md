@@ -8,7 +8,7 @@
 
 -utilizo este espaço para minha organização e compartilhamento dos meus projetos.
 
-### voce pode entrar em conato comigo 📫
+### voce pode entrar em contato comigo 📫
 
 taeme.cruz@escola.pr.gov.br
 
